@@ -1,0 +1,17 @@
+body {
+  font-size: 16px;
+}
+
+.container {
+  padding: 10px;
+  border: solid 1px #999;
+}
+
+.container-item {
+  margin-bottom: 20px;
+}
+
+.calculate-button {
+  padding: 6px 12px;
+  font-size: 16px;
+}
